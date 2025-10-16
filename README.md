@@ -2,14 +2,14 @@
 
 Ce dépôt contient les travaux réalisés dans le cadre du TP sur les pratiques proactives de sécurité web. L'objectif principal est d'intégrer des outils de sécurité de manière continue et automatisée directement dans le cycle de développement logiciel, en s'appuyant sur une culture DevSecOps.
 
-## 🛠️ Outils et technologies
+##  Outils et technologies
 
 * **Langage** : Python avec le micro-framework Flask
 * **CI/CD** : GitHub Actions pour l'automatisation des workflows
 * **Analyse de Code Statique (SAST)** : CodeQL pour scanner le code source à la recherche de vulnérabilités
 * **Analyse des Dépendances** : Dependabot pour la gestion des bibliothèques vulnérables
 
-## 🚀 Démarche du projet
+##  Démarche du projet
 
 Le projet a été mis en place en suivant une démarche d'intégration continue de la sécurité :
 
@@ -21,13 +21,13 @@ Le projet a été mis en place en suivant une démarche d'intégration continue 
 
 Les résultats de ces analyses sont visibles dans l'onglet **"Security"** de ce dépôt.
 
-## 🧠 Quiz de sensibilisation à la sécurité
+##  Quiz de sensibilisation à la sécurité
 
 Pour renforcer la compréhension des vulnérabilités web de manière ludique, un quiz interactif a été préparé.
 
 ➡️ **Participer au quiz via Google Forms :** [https://forms.gle/Vp1XYBLtrMJKvAbN6](https://forms.gle/Vp1XYBLtrMJKvAbN6)
 
-## 🚩 CTF (Capture The Flag) - Bientôt disponible
+##  CTF (Capture The Flag) - Bientôt disponible
 
 Une plateforme de CTF est en cours de développement afin de s'exercer à l'exploitation de failles de sécurité courantes dans un environnement contrôlé.
 
@@ -36,6 +36,6 @@ Les challenges prévus sont :
 * Upload de fichier malveillant
 * Exécution de commande shell via une vulnérabilité
 
-## ✍️ Auteur
+##  Auteur
 
 * Sylvain BOURGEOIS
